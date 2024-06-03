@@ -1,0 +1,2 @@
+usuario1:senha1:master
+usuario2:senha2:user
